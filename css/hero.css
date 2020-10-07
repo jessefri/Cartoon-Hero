@@ -2,10 +2,11 @@
 /*need help*/
 
 body{
-	margin: 5;
-	font-family: Helvetica, Arial, sans-serif	
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;	
 	font-size: 24px; 
 	line-height: 30px
+	background-color: #12fc8f;
 
 }
 
@@ -22,14 +23,16 @@ h1, h2{
 }
 
 header h1{
-	color: yellow;
+	color: #b0f573;
 	font-size: 50px;
 	
 }
 header img{
 	border-radius: 170px;
 	width: 300px;
-	border: 30px; solid #b2f24b;
+	border: 30px; black;
+	padding-top: 20px;
+	padding-bottom 20px;
 }
 
 main{
